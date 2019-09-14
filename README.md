@@ -8,4 +8,6 @@ Objetivos Generales:
 1.- Calcular las variaciones de cada moneda.
 
 2.- Asociar un nivel de riesgo a cada criptomoneda, dandole un rango o nivel de volatilidad máximo.
+
+este es el link, de la pagina en el cual realizaremos nuestro proyecto:
 https://github.com/claudio-palominos/cripto-project
